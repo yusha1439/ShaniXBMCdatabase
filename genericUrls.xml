@@ -24,8 +24,8 @@
 <streaminginfo>
 	<cname>Dalmar TV</cname>
 	<item>
-	<title>rtmp_Stream</title>
-	<link>rtmp://130.211.178.31:1935/DalmarStream//flv:myStream</link>
+	<title>HLS_Stream</title>
+	<link>http://130.211.178.31:1935/DalmarStream//flv:myStream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
