@@ -1,5 +1,13 @@
 <channels>
 <channel>
+	<cname>Somali Cable TV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/10/somalicable-300x300.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>africa</category>
+	</assignedcategory>
+</channel>	
+<channel>
 	<cname>Fadak</cname>
 	<imageurl>http://watchfomny.tv/Video/Iran/Fadak/logo.gif</imageurl>
 	<enabled>True</enabled>
